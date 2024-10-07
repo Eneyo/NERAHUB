@@ -1,0 +1,40 @@
+.container {
+    width: 600px;
+    background-color: rgb(247, 245, 244);
+    display: flex;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    border: 2px solid rgb(146, 84, 2);
+    color: rgb(146, 84, 2);
+}
+
+.container :hover {
+    background-color: rgb(146, 84, 2);
+    color: white;
+    position: relative;
+    top: 20px;
+}
+
+.textxen {
+    /* margin-left: 20px; */
+    color: rgb(146, 84, 2);
+}
+
+.textxen h1 {
+    font-weight: 600;
+}
+
+.textxen h3 {
+    font-weight: 500;
+    font-style: italic;
+}
+
+.imagexen {
+    width: 130px;
+    height: 130px;
+    object-fit: fill;
+    border-radius: 100px;
+    border: 2px solid rgb(146, 84, 2);
+}

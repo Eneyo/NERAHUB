@@ -1,0 +1,23 @@
+      /* * { (universal tag styling)
+            color: red;
+            background-color: blueviolet;
+        } */
+
+      div {
+        color: rgb(218, 27, 27);
+        background-color: #f0ebeb;
+      }
+
+      #rex {
+        color: white;
+        font-size: 70px;
+        font-weight: 600;
+        background-color: blue;
+      }
+
+      .rex {
+        color: #f7f4f4;
+        font-size: 70px;
+        font-weight: 600;
+        background-color: rgba(218, 27, 27, 0.973);
+      }
